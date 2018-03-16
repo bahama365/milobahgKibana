@@ -1,0 +1,2 @@
+# milobahgKibana
+Docker Kibana server
